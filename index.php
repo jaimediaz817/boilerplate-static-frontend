@@ -22,11 +22,11 @@
     </head>
 
     <body>
+
         <section class="bg-primary text-secundary container">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi ipsum exercitationem asperiores, dignissimos dolor animi quisquam nulla praesentium corrupti illo quaerat magni. Molestiae assumenda temporibus facere odio perspiciatis minus repudiandae?
             <i class="fas fa-address-card"></i>
         </section>
-
 
 
         <!-- *********************************************************************** -->
