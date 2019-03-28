@@ -1,0 +1,83 @@
+/*-----------------------------------------------
+1.   T Y P O G R A P H Y 
+------------------------------------------------*/
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
+@font-face {
+  font-family: 'MontserratBlack';
+  src: url("../fonts/textfonts/MontserratBlack.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'MontserratBlackItalic';
+  src: url("../fonts/textfonts/MontserratBlackItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'MontserratBlack';
+  src: url("../fonts/textfonts/MontserratBlack.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'MontserratBold';
+  src: url("../fonts/textfonts/MontserratBold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'MontserratExtraLight';
+  src: url("../fonts/textfonts/MontserratExtraLight.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'MontserratExtraLightItalic';
+  src: url("../fonts/textfonts/MontserratExtraLightItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'MontserratLight';
+  src: url("../fonts/textfonts/MontserratLight.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'MontserratLightItalic';
+  src: url("../fonts/textfonts/MontserratLightItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'MontserratRegular';
+  src: url("../fonts/textfonts/MontserratRegular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'MontserratRegular';
+  src: url("../fonts/textfonts/MontserratRegular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'MontserratThin';
+  src: url("../fonts/textfonts/MontserratThin.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'AvenirLTStdLight';
+  src: url("../fonts/textfonts/AvenirLTStdLight.eot");
+  src: url("../fonts/textfonts/AvenirLTStdLight.eot?#iefix") format("embedded-opentype"), url("../fonts/textfonts/AvenirLTStdLight.woff") format("woff"), url("../fonts/textfonts/AvenirLTStdLight.ttf") format("truetype"), url("../fonts/textfonts/AvenirLTStdLight.svg#AvenirLTStdLight") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+.text-primary {
+  color: #00adb5 !important; }
+
+.text-secundary, .text-grey__dark {
+  color: #23262A !important; }
+
+.bg-primary {
+  background-color: #00adb5 !important; }
+
+body {
+  font-family: "AvenirLTStdLight", Open Sans, sans-serif, Arial;
+  background: #F6F6F6; }
+
+section {
+  background-color: #00adb5;
+  color: #F6F6F6; }
+
+/*# sourceMappingURL=styles.css.map */
